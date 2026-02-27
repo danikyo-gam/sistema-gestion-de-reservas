@@ -1,0 +1,20 @@
+10000001,Juan Pérez,juan.perez@example.com,123456,2500
+10000002,María López,maria.lopez@example.com,123456,0
+10000003,Carlos Gómez,carlos.gomez@example.com,123456,0
+10000004,Ana Rojas,ana.rojas@example.com,123456,0
+10000005,Luis Hernández,luis.hernandez@example.com,123456,0
+10000006,Laura Castillo,laura.castillo@example.com,123456,0
+10000007,Pedro Morales,pedro.morales@example.com,123456,0
+10000008,Valentina Rivera,valentina.rivera@example.com,123456,0
+10000009,Sebastián Duarte,sebastian.duarte@example.com,123456,0
+10000010,Camila Torres,camila.torres@example.com,123456,0
+10000011,Nicolás Vargas,nicolas.vargas@example.com,123456,0
+10000012,Gabriela Silva,gabriela.silva@example.com,123456,0
+10000013,Ricardo Medina,ricardo.medina@example.com,123456,0
+10000014,Antonia Fuentes,antonia.fuentes@example.com,123456,0
+10000015,Javier Soto,javier.soto@example.com,123456,0
+10000016,Daniel Muñoz,daniel.munoz@example.com,123456,0
+10000017,Fernanda Cruz,fernanda.cruz@example.com,123456,0
+10000018,Matías Salazar,matias.salazar@example.com,123456,0
+10000019,Paula Navarro,paula.navarro@example.com,123456,0
+88888,ufjrjfr,ututurur,123,0
