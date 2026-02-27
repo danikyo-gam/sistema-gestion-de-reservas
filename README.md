@@ -32,3 +32,9 @@ Y esta siendo usada solo con fines academicos y de aprendizaje
 - Funciones y modularización
 
 ---
+## Instrucciones
+En los archivos de texto:
+- admins.txt
+- usuarios.txt
+- vuelos.txt
+Se encuentra la informacion necesaria para acceder y usar el programa 
